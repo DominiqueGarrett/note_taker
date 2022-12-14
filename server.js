@@ -7,7 +7,8 @@ const fs = require("fs");
 var app = express();
 var PORT = process.env.PORT || 8080
 
-// Sets up the express app to handle data parsing
+
+// Middleware for parsing application/json and urlencoded data
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use("/public/assets", express.static(__dirname + "/public/assets"));
