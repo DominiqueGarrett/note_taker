@@ -22,6 +22,7 @@ Module 11 Challenge Assignment: Express.js Challenge - Note Taker
 
 
   ## Description
+  A note taker application that allows users to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
 
 
 ## User Story
@@ -47,18 +48,23 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
   ## Installation
+  In order to install inquirer, please use npm i inquirer@8.2.4.
 
 
   ## Usage
-  Video of the application in use: 
- 
-  
+Start-Page:
+<img width="1112" alt="Screen Shot 2022-12-14 at 2 04 13 AM" src="https://user-images.githubusercontent.com/114618684/207539770-64acf4da-b139-4cac-be08-a8551275af90.png">
+
+Note Page:
+![11-express-homework-demo-01](https://user-images.githubusercontent.com/114618684/207539972-d2cac313-eeda-4174-ae3f-a5fe3da61cb3.png)
+
+Notes Added:
+![11-express-homework-demo-02](https://user-images.githubusercontent.com/114618684/207540126-8a2c45e3-cb34-411d-bb29-3e2fe9aa262a.png)
+
 
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
 
-
-  ## Tests
  
 
   ## Questions?
