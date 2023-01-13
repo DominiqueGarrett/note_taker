@@ -1,6 +1,8 @@
 # note_taker
 Module 11 Challenge Assignment: Express.js Challenge - Note Taker
 
+Deployed application: https://note-taker-smu-bootcamp.herokuapp.com
+
 
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
